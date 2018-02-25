@@ -12,4 +12,4 @@ Fun experiments I do with websites
 
 ***Note:*** Reload the page to stop script execution.<br/>
 
-1. **Medium-Clapper** - If you like a medium article so much and want to give maximum claps to author withour long pressing the mouse or touchpad use this script.
+1. **Medium-Clapper** - If you like a [Medium](https://medium.com/) article so much and want to give maximum claps to author withour long pressing the mouse or touchpad use this script.<br/>
