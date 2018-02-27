@@ -13,3 +13,9 @@ Fun experiments I do with websites
 ***Note:*** Reload the page to stop script execution.<br/>
 
 1. **Medium-Clapper** - If you like a [Medium](https://medium.com/) article so much and want to give maximum claps to author withour long pressing the mouse or touchpad use this script.<br/>
+
+2. **Chrome-Dino** - Tweaks for online dinosaur game [Chromedino](https://chromedino.com). Read cautions carefully.<br/>
+ - Target JavaScript for analysis [game.js](https://chromedino.com/js/game.js)<br/>
+ - After having a large score a winning prompt will appear.<br/>
+ - But if caught IP will be banned.<br/>
+ ![Caught screenshot](https://github.com/ankurparihar/Console-Scripts/blob/master/img/ChromeDyn_caught.png)
