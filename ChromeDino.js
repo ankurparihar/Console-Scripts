@@ -1,4 +1,5 @@
 // The experiments and research so far on site https://chromedino.com/
+// Target script https://chromedino.com/js/game.js
 // You will find the tricks for offline version of game on most websites but these are different
 
 // Caution:
@@ -27,8 +28,3 @@ Runner.instance_.currentSpeed = 10;
 // To change distance ran:
 Runner.instance_.distanceRan = 1000;
 // You will get instant score boost which will be value/4
-
-
-// After this I got this 
-
-// But soon they detected the cheat and then...
