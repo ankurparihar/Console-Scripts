@@ -18,4 +18,6 @@ Fun experiments I do with websites
  - Target JavaScript for analysis [game.js](https://chromedino.com/js/game.js)<br/>
  - After having a large score a winning prompt will appear.<br/>
  - But if caught IP will be banned.<br/>
- ![Caught screenshot](https://github.com/ankurparihar/Console-Scripts/blob/master/img/ChromeDyn_caught.png)
+ ![Caught screenshot](https://github.com/ankurparihar/Console-Scripts/blob/master/files/ChromeDyn_caught.png)<br/>
+ - And hell Ya!!! Next day with careful execution took 1st place of the day.
+ ![Win_screenshot](https://github.com/ankurparihar/Console-Scripts/blob/master/files/ChromeDyn_win.png)<br/>
