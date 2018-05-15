@@ -30,3 +30,7 @@ Fun experiments I do with websites
 - To stop scrolling `pix = 0`<br/>
 - To increase/decrease speed either `pix = {Some_Value_here}` or `setInterval(scrollPage,{some_value_here})`<br/>
 - To revert either `revert()` or `pix = -pix`<br/>
+
+4. **World's Dumbest Game** - make high scores on scoreboard<br/>
+- Just use the script before beginning the game and it will ask for initials after pushing the button.<br/>
+![High Scores](https://raw.githubusercontent.com/ankurparihar/Console-Scripts/master/files/WDG.png)<br/>
