@@ -33,4 +33,6 @@ Fun experiments I do with websites
 
 4. **World's Dumbest Game** - make high scores on scoreboard<br/>
 - Just use the script before beginning the game and it will ask for initials after pushing the button.<br/>
+![initials](https://github.com/ankurparihar/Console-Scripts/blob/master/files/WDG2.png?raw=true)<br/>
+- result<br/>
 ![High Scores](https://raw.githubusercontent.com/ankurparihar/Console-Scripts/master/files/WDG.png)<br/>
