@@ -36,3 +36,8 @@ Fun experiments I do with websites
 ![initials](https://github.com/ankurparihar/Console-Scripts/blob/master/files/WDG2.png?raw=true)<br/>
 - result<br/>
 ![High Scores](https://raw.githubusercontent.com/ankurparihar/Console-Scripts/master/files/WDG.png)<br/>
+
+5. **Live Start Page** - unlock pro features of [Live Start Page](https://chrome.google.com/webstore/detail/live-start-page-living-wa/ocggccaacacpienfcgmgcihoombokbbj) extension<br/>
+- Open settings by clicking on extension.<br\>
+- Modify the function `isPremium` of `AUTH` object using this code in [Live Start Page.js](https://raw.githubusercontent.com/ankurparihar/Console-Scripts/master/Live%20Start%20Page.js).<br/>
+- The effect will be gone after that session or page reload but the settings changed by this will be enduring.<br/>
