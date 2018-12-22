@@ -41,3 +41,7 @@ Fun experiments I do with websites
 - Open settings by clicking on extension.<br\>
 - Modify the function `isPremium` of `AUTH` object using this code in [Live Start Page.js](https://raw.githubusercontent.com/ankurparihar/Console-Scripts/master/Live%20Start%20Page.js).<br/>
 - The effect will be gone after that session or page reload but the settings changed by this will be enduring.<br/>
+
+6. **Last Knife** - score tweaking for the facebook instant game [Last Knife](https://www.facebook.com/instantgames/1250735238360354)<br/>
+- Json file describing the breakpoints and variables (Although not covered all)<br/>
+- Get high score, unlock all swords, get diamonds and many more.<br/>
