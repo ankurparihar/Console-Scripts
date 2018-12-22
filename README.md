@@ -43,5 +43,6 @@ Fun experiments I do with websites
 - The effect will be gone after that session or page reload but the settings changed by this will be enduring.<br/>
 
 6. **Last Knife** - score tweaking for the facebook instant game [Last Knife](https://www.facebook.com/instantgames/1250735238360354)<br/>
-- Json file describing the breakpoints and variables (Although not covered all)<br/>
+- Json file [Last Knife.json](https://raw.githubusercontent.com/ankurparihar/Console-Scripts/master/Last%20knife.json) describing the breakpoints and variables (Although not covered all)<br/>
 - Get high score, unlock all swords, get diamonds and many more.<br/>
+![Last Knife.png](https://raw.githubusercontent.com/ankurparihar/Console-Scripts/master/files/Last%20Knife.png)<br/>

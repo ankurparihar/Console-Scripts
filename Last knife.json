@@ -1,0 +1,70 @@
+{
+	"Breakpoints": [
+		{
+			"file": "Project.js",
+			"url": "https: //apps-1250735238360354.apps.fbsbx.com/instant-bundle/1695539157158833/1947798578668821/src/project.js",
+			"lines": [
+				{
+					"no": 5055,
+					"console": []
+				},
+				{
+					"no": 3497,
+					"console": [
+						"this.curKnifeAmount"
+					]
+				},
+				{
+					"no": [
+						14059,
+						14074,
+						14078,
+						14082,
+						"etc"
+					],
+					"console": []
+				},
+				{
+					"no": [
+						14115,
+						14119,
+						14124,
+						14128,
+						14133,
+						14138,
+						14143,
+						14147,
+						14151,
+						14156,
+						14162,
+						"etc"
+					],
+					"console": [
+						"p.bossKnifeCount",
+						"p.bossRecordDefented",
+						"p.chance_doubleXp",
+						"p.chance_extra",
+						"p.chance_giftApple",
+						"p.chance_goldApple",
+						"p.chance_second",
+						"p.chance_videoApple",
+						"p.curKnifeId",
+						"p.curMaxKnife",
+						"p.curMaxStage",
+						"p.diamon",
+						"p.player_exp",
+						"p.player_lv",
+						"p.unlockedKnife"
+					]
+				},
+				{
+					"no": [
+						3421,
+						11517,
+						
+					]
+				}
+			]
+		}
+	]
+}
